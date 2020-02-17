@@ -1,0 +1,33 @@
+   Github Resources
+
+ There are a lot of helpful git and ggithub resources on the web.
+ This is a short list of our favorites.Such as 
+  
+                                        1.Using git 
+                                        2.Uding github
+                                        3.Training
+                                        4.Extras
+1.using git
+  Familiarize youself with git by visiting the official git project site and reading the Progit ebook.
+  you can review the git command list or git command lookup reference while using the rty git simulator.
+
+2.Using github
+  Github learning lab offers free interactive courses that are built into Github with instant automated feedback 
+  and help. learn to open you fast pull request,make your fast open source contribution,create a github pages site,
+ and more.For more information about course offerings,see github learning lab.
+ You can connect with developers around the world in the github community froum to aks and answer questions,learn,
+ and interact direcly with github staff.
+
+  Branches,forks,and pull requests
+  Learn about git branching using an interactive tool.read about forks and pull requests as well as how we 
+  use pull requsts at github.
+
+3.Training 
+  Github offers a series of interactive on-demand training courses including github 101:Introduction,102:github Desktop,
+  and github 103:command line.
+  Training for your educational programs
+  github offers live training with a hand-on,project-based approach for those who love command line and those who don't.
+
+4.Extras
+  An interactive online git course from code school has seven levels with dozens of exercises in a fun game format.
+  Extend your github reach through integration,or by installing github desktop and the robust atom text editor.
